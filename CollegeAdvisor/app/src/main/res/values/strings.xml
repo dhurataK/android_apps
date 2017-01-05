@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CollegeAdvisor</string>
+    <string name="find_college">Find College!</string>
+    <string name="colleges"></string>
+    <string-array name="college_names">
+        <item>code</item>
+        <item>painting</item>
+        <item>accounting</item>
+    </string-array>
+</resources>
